@@ -1,5 +1,5 @@
 # Span back end coding challenge solution
-Note that only the Python file corresponding to the command line application itself (league_rank.py) and the PyTest (league_rank_test.py) have been Git included.
+Note that only the Python files corresponding to the command line application itself (league_rank.py) and the PyTest (league_rank_test.py) have been Git included.
 
 The only dependencies are standard Python libraries and the PyTest package.
 
